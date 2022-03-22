@@ -19,7 +19,5 @@ https://ga-dev-tools.appspot.com/dimensions-metrics-explorer/?csw=1#validCombina
 
 ## Pacote base  
 
-Pacote usado: 
-
 https://cran.r-project.org/web/packages/googleAnalyticsR/googleAnalyticsR.pdf
 
